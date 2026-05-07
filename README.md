@@ -3,10 +3,10 @@
 <div align="center">
 
 ## 👾 Team Name
-### **Still Loading...**
+**Still Loading...**
 
-📚 **Course:** Computer Graphics
-
+## 📚 Course
+**Computer Graphics**
 </div>
 
 ---
