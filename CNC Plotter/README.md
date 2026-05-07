@@ -38,7 +38,7 @@ The CNC Plotter is a Computer Numerical Control machine that automates the drawi
 
 | Component | Description |
 |----------|-------------|
-| Arduino Uno/Mega | Main microcontroller |
+| Arduino Uno | Main microcontroller |
 | 28BYJ-48 Stepper Motors (×3) | X, Y, and Z axis movement |
 | ULN2003 Driver Boards (×3) | Stepper motor drivers connected directly to Arduino |
 | 3D Printed Parts | Custom frame and mechanical parts (STL files included) |
