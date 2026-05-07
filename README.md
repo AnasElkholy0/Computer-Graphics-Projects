@@ -1,6 +1,5 @@
 # 🖥️ Computer Graphics Projects
 
-
 ## 👾 Team Name
 **Still Loading...**
 
