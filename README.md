@@ -1,7 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/AnasElkholy0/Computer-Graphics-Projects)
-![GitHub stars](https://img.shields.io/github/stars/AnasElkholy0/Computer-Graphics-Projects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AnasElkholy0/Computer-Graphics-Projects?style=social)
-![License](https://img.shields.io/github/license/AnasElkholy0/Computer-Graphics-Projects)
 # 🖥️ Computer Graphics Projects
 
 
