@@ -1,4 +1,4 @@
-# 🐍 SNAKEG
+# 🐍 SNAKE GAME
   
 
 ## Requirements
