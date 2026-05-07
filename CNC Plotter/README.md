@@ -1,4 +1,4 @@
-# 🖊️ CNC Plotter — Graduation Project
+# 🖊️ CNC Plotter 
 
 A 3-axis CNC Plotter machine built from scratch as a graduation project. The machine runs **GRBL** firmware and receives G-code commands, translating them into precise stepper motor movements to draw vector graphics on paper.
 
@@ -87,12 +87,9 @@ The CNC Plotter is a Computer Numerical Control machine that automates the drawi
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/CNC_Plotter.git
-cd CNC_Plotter
-```
+### 1. Download the Project
+- Download the project files from GitHub
+- Extract the folder if needed
 
 ### 2. Upload Firmware
 
