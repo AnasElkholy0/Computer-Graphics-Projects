@@ -37,3 +37,7 @@ A classic Snake Game implemented in **C++** using computer graphics concepts. Th
 **Tech:** C++ · OpenGL / Graphics Library
 
 ---
+![GitHub repo size](https://img.shields.io/github/repo-size/AnasElkholy0/Computer-Graphics-Projects)
+![GitHub stars](https://img.shields.io/github/stars/AnasElkholy0/Computer-Graphics-Projects?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AnasElkholy0/Computer-Graphics-Projects?style=social)
+![License](https://img.shields.io/github/license/AnasElkholy0/Computer-Graphics-Projects)
