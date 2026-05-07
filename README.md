@@ -37,21 +37,3 @@ A classic Snake Game implemented in **C++** using computer graphics concepts. Th
 **Tech:** C++ · OpenGL / Graphics Library
 
 ---
-
-## 📂 Repository Structure
-
-```
-Computer Graphics Projects/
-│
-├── README.md
-│
-├── CNC-Plotter/
-│   ├── README.md
-│   └── ...
-│
-└── Snake-Game/
-    ├── README.md
-    └── ...
-```
-# Computer-Graphics-Projects
-# Computer-Graphics-Projects
