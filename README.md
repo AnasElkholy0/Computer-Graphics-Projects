@@ -5,7 +5,7 @@
 ## 👾 Team Name
 **Still Loading...**
 
-## 📚 Course
+**## 📚 Course
 **Computer Graphics**
 </div>
 
